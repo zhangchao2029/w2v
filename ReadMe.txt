@@ -1,13 +1,5 @@
 ﻿========================================================================
 Image Classification using Bag of Words and Spatial Pyramid BoW
-Created by Piji Li, 丕子
-Email: peegeelee@gmail.com
-
-Blog: http://www.zhizhihu.com
-
-QQ: 472308749
-10/24/2011
-
 
 Some code are from:
 
